@@ -1,0 +1,1400 @@
+max number of tokens: 2
+Smatch           -> P: 0.889,  R: 0.889,  F: 0.889
+Unlabeled        -> P: 0.889,  R: 0.889,  F: 0.889
+No WSD           -> P: 0.889,  R: 0.889,  F: 0.889
+Non_sense_frames -> P: 0.000,  R: 0.000,  F: 0.000
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.000,  R: 0.000,  F: 0.000
+Negations        -> P: 0.000,  R: 0.000,  F: 0.000
+IgnoreVars       -> P: 0.667,  R: 0.667,  F: 0.667
+Concepts         -> P: 0.667,  R: 0.667,  F: 0.667
+Frames           -> P: 0.000,  R: 0.000,  F: 0.000
+Reentrancies     -> P: 0.000,  R: 0.000,  F: 0.000
+SRL              -> P: 0.000,  R: 0.000,  F: 0.000
+ 
+max number of tokens: 3
+Smatch           -> P: 0.970,  R: 0.980,  F: 0.975
+Unlabeled        -> P: 0.974,  R: 0.978,  F: 0.976
+No WSD           -> P: 0.970,  R: 0.980,  F: 0.975
+Non_sense_frames -> P: 0.938,  R: 0.938,  F: 0.938
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.000,  R: 0.000,  F: 0.000
+Negations        -> P: 0.000,  R: 0.000,  F: 0.000
+IgnoreVars       -> P: 0.910,  R: 0.918,  F: 0.914
+Concepts         -> P: 0.956,  R: 0.966,  F: 0.961
+Frames           -> P: 0.875,  R: 0.875,  F: 0.875
+Reentrancies     -> P: 0.000,  R: 0.000,  F: 0.000
+SRL              -> P: 0.967,  R: 0.967,  F: 0.967
+ 
+max number of tokens: 4
+Smatch           -> P: 0.953,  R: 0.964,  F: 0.959
+Unlabeled        -> P: 0.962,  R: 0.969,  F: 0.965
+No WSD           -> P: 0.934,  R: 0.944,  F: 0.939
+Non_sense_frames -> P: 0.900,  R: 0.923,  F: 0.911
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.000,  R: 0.000,  F: 0.000
+Negations        -> P: 1.000,  R: 1.000,  F: 1.000
+IgnoreVars       -> P: 0.884,  R: 0.893,  F: 0.888
+Concepts         -> P: 0.934,  R: 0.945,  F: 0.939
+Frames           -> P: 0.850,  R: 0.872,  F: 0.861
+Reentrancies     -> P: 0.000,  R: 0.000,  F: 0.000
+SRL              -> P: 0.945,  R: 0.945,  F: 0.945
+ 
+max number of tokens: 5
+Smatch           -> P: 0.930,  R: 0.929,  F: 0.929
+Unlabeled        -> P: 0.951,  R: 0.949,  F: 0.950
+No WSD           -> P: 0.907,  R: 0.905,  F: 0.906
+Non_sense_frames -> P: 0.890,  R: 0.924,  F: 0.907
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.000,  R: 0.000,  F: 0.000
+Negations        -> P: 0.875,  R: 0.778,  F: 0.824
+IgnoreVars       -> P: 0.835,  R: 0.833,  F: 0.834
+Concepts         -> P: 0.931,  R: 0.931,  F: 0.931
+Frames           -> P: 0.835,  R: 0.867,  F: 0.850
+Reentrancies     -> P: 1.000,  R: 0.500,  F: 0.667
+SRL              -> P: 0.899,  R: 0.905,  F: 0.902
+ 
+max number of tokens: 6
+Smatch           -> P: 0.917,  R: 0.918,  F: 0.918
+Unlabeled        -> P: 0.941,  R: 0.941,  F: 0.941
+No WSD           -> P: 0.894,  R: 0.895,  F: 0.895
+Non_sense_frames -> P: 0.898,  R: 0.918,  F: 0.908
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.000,  R: 0.000,  F: 0.000
+Negations        -> P: 0.947,  R: 0.900,  F: 0.923
+IgnoreVars       -> P: 0.804,  R: 0.803,  F: 0.804
+Concepts         -> P: 0.926,  R: 0.926,  F: 0.926
+Frames           -> P: 0.844,  R: 0.863,  F: 0.853
+Reentrancies     -> P: 0.793,  R: 0.697,  F: 0.742
+SRL              -> P: 0.882,  R: 0.864,  F: 0.873
+ 
+max number of tokens: 7
+Smatch           -> P: 0.903,  R: 0.903,  F: 0.903
+Unlabeled        -> P: 0.926,  R: 0.926,  F: 0.926
+No WSD           -> P: 0.878,  R: 0.878,  F: 0.878
+Non_sense_frames -> P: 0.897,  R: 0.913,  F: 0.905
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.000,  R: 0.000,  F: 0.000
+Negations        -> P: 0.921,  R: 0.875,  F: 0.897
+IgnoreVars       -> P: 0.785,  R: 0.784,  F: 0.784
+Concepts         -> P: 0.921,  R: 0.921,  F: 0.921
+Frames           -> P: 0.844,  R: 0.859,  F: 0.851
+Reentrancies     -> P: 0.702,  R: 0.757,  F: 0.728
+SRL              -> P: 0.863,  R: 0.865,  F: 0.864
+ 
+max number of tokens: 8
+Smatch           -> P: 0.898,  R: 0.895,  F: 0.897
+Unlabeled        -> P: 0.921,  R: 0.918,  F: 0.919
+No WSD           -> P: 0.871,  R: 0.869,  F: 0.870
+Non_sense_frames -> P: 0.904,  R: 0.907,  F: 0.905
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.000,  R: 0.000,  F: 0.000
+Negations        -> P: 0.908,  R: 0.868,  F: 0.887
+IgnoreVars       -> P: 0.779,  R: 0.778,  F: 0.778
+Concepts         -> P: 0.918,  R: 0.914,  F: 0.916
+Frames           -> P: 0.853,  R: 0.857,  F: 0.855
+Reentrancies     -> P: 0.715,  R: 0.722,  F: 0.718
+SRL              -> P: 0.862,  R: 0.860,  F: 0.861
+ 
+max number of tokens: 9
+Smatch           -> P: 0.888,  R: 0.890,  F: 0.889
+Unlabeled        -> P: 0.915,  R: 0.917,  F: 0.916
+No WSD           -> P: 0.860,  R: 0.862,  F: 0.861
+Non_sense_frames -> P: 0.898,  R: 0.907,  F: 0.902
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 1.000,  R: 0.667,  F: 0.800
+Negations        -> P: 0.887,  R: 0.855,  F: 0.871
+IgnoreVars       -> P: 0.769,  R: 0.772,  F: 0.770
+Concepts         -> P: 0.913,  R: 0.914,  F: 0.914
+Frames           -> P: 0.850,  R: 0.858,  F: 0.854
+Reentrancies     -> P: 0.721,  R: 0.755,  F: 0.738
+SRL              -> P: 0.851,  R: 0.857,  F: 0.854
+ 
+max number of tokens: 10
+Smatch           -> P: 0.876,  R: 0.879,  F: 0.878
+Unlabeled        -> P: 0.903,  R: 0.905,  F: 0.904
+No WSD           -> P: 0.848,  R: 0.851,  F: 0.850
+Non_sense_frames -> P: 0.890,  R: 0.900,  F: 0.895
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 1.000,  R: 0.909,  F: 0.952
+Negations        -> P: 0.874,  R: 0.841,  F: 0.857
+IgnoreVars       -> P: 0.756,  R: 0.760,  F: 0.758
+Concepts         -> P: 0.906,  R: 0.909,  F: 0.907
+Frames           -> P: 0.848,  R: 0.857,  F: 0.853
+Reentrancies     -> P: 0.715,  R: 0.736,  F: 0.725
+SRL              -> P: 0.846,  R: 0.851,  F: 0.849
+ 
+max number of tokens: 11
+Smatch           -> P: 0.866,  R: 0.866,  F: 0.866
+Unlabeled        -> P: 0.895,  R: 0.894,  F: 0.895
+No WSD           -> P: 0.839,  R: 0.839,  F: 0.839
+Non_sense_frames -> P: 0.887,  R: 0.888,  F: 0.888
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 1.000,  R: 0.909,  F: 0.952
+Negations        -> P: 0.872,  R: 0.843,  F: 0.857
+IgnoreVars       -> P: 0.743,  R: 0.745,  F: 0.744
+Concepts         -> P: 0.904,  R: 0.903,  F: 0.903
+Frames           -> P: 0.848,  R: 0.849,  F: 0.848
+Reentrancies     -> P: 0.714,  R: 0.716,  F: 0.715
+SRL              -> P: 0.837,  R: 0.839,  F: 0.838
+ 
+max number of tokens: 12
+Smatch           -> P: 0.862,  R: 0.862,  F: 0.862
+Unlabeled        -> P: 0.891,  R: 0.891,  F: 0.891
+No WSD           -> P: 0.836,  R: 0.837,  F: 0.836
+Non_sense_frames -> P: 0.889,  R: 0.887,  F: 0.888
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 1.000,  R: 0.923,  F: 0.960
+Negations        -> P: 0.870,  R: 0.839,  F: 0.854
+IgnoreVars       -> P: 0.736,  R: 0.739,  F: 0.738
+Concepts         -> P: 0.901,  R: 0.901,  F: 0.901
+Frames           -> P: 0.848,  R: 0.846,  F: 0.847
+Reentrancies     -> P: 0.708,  R: 0.712,  F: 0.710
+SRL              -> P: 0.832,  R: 0.833,  F: 0.833
+ 
+max number of tokens: 13
+Smatch           -> P: 0.864,  R: 0.862,  F: 0.863
+Unlabeled        -> P: 0.892,  R: 0.891,  F: 0.891
+No WSD           -> P: 0.838,  R: 0.837,  F: 0.838
+Non_sense_frames -> P: 0.894,  R: 0.889,  F: 0.892
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.923,  R: 0.857,  F: 0.889
+Negations        -> P: 0.877,  R: 0.854,  F: 0.865
+IgnoreVars       -> P: 0.740,  R: 0.740,  F: 0.740
+Concepts         -> P: 0.903,  R: 0.901,  F: 0.902
+Frames           -> P: 0.853,  R: 0.847,  F: 0.850
+Reentrancies     -> P: 0.721,  R: 0.715,  F: 0.718
+SRL              -> P: 0.835,  R: 0.834,  F: 0.834
+ 
+max number of tokens: 14
+Smatch           -> P: 0.861,  R: 0.860,  F: 0.861
+Unlabeled        -> P: 0.891,  R: 0.889,  F: 0.890
+No WSD           -> P: 0.836,  R: 0.835,  F: 0.835
+Non_sense_frames -> P: 0.893,  R: 0.888,  F: 0.891
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.867,  R: 0.867,  F: 0.867
+Negations        -> P: 0.881,  R: 0.860,  F: 0.871
+IgnoreVars       -> P: 0.738,  R: 0.739,  F: 0.739
+Concepts         -> P: 0.901,  R: 0.901,  F: 0.901
+Frames           -> P: 0.851,  R: 0.847,  F: 0.849
+Reentrancies     -> P: 0.718,  R: 0.713,  F: 0.715
+SRL              -> P: 0.832,  R: 0.831,  F: 0.832
+ 
+max number of tokens: 15
+Smatch           -> P: 0.858,  R: 0.859,  F: 0.859
+Unlabeled        -> P: 0.888,  R: 0.889,  F: 0.888
+No WSD           -> P: 0.833,  R: 0.834,  F: 0.833
+Non_sense_frames -> P: 0.894,  R: 0.888,  F: 0.891
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.833,  R: 0.882,  F: 0.857
+Negations        -> P: 0.885,  R: 0.860,  F: 0.873
+IgnoreVars       -> P: 0.736,  R: 0.739,  F: 0.737
+Concepts         -> P: 0.899,  R: 0.902,  F: 0.900
+Frames           -> P: 0.851,  R: 0.846,  F: 0.849
+Reentrancies     -> P: 0.713,  R: 0.716,  F: 0.714
+SRL              -> P: 0.831,  R: 0.830,  F: 0.831
+ 
+max number of tokens: 16
+Smatch           -> P: 0.854,  R: 0.855,  F: 0.855
+Unlabeled        -> P: 0.884,  R: 0.885,  F: 0.885
+No WSD           -> P: 0.829,  R: 0.830,  F: 0.830
+Non_sense_frames -> P: 0.892,  R: 0.888,  F: 0.890
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.800,  R: 0.842,  F: 0.821
+Negations        -> P: 0.872,  R: 0.840,  F: 0.856
+IgnoreVars       -> P: 0.729,  R: 0.732,  F: 0.731
+Concepts         -> P: 0.896,  R: 0.899,  F: 0.898
+Frames           -> P: 0.850,  R: 0.846,  F: 0.848
+Reentrancies     -> P: 0.717,  R: 0.726,  F: 0.722
+SRL              -> P: 0.828,  R: 0.830,  F: 0.829
+ 
+max number of tokens: 17
+Smatch           -> P: 0.853,  R: 0.855,  F: 0.854
+Unlabeled        -> P: 0.883,  R: 0.885,  F: 0.884
+No WSD           -> P: 0.827,  R: 0.830,  F: 0.829
+Non_sense_frames -> P: 0.891,  R: 0.890,  F: 0.891
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.818,  R: 0.857,  F: 0.837
+Negations        -> P: 0.879,  R: 0.845,  F: 0.861
+IgnoreVars       -> P: 0.729,  R: 0.732,  F: 0.730
+Concepts         -> P: 0.896,  R: 0.899,  F: 0.898
+Frames           -> P: 0.849,  R: 0.848,  F: 0.848
+Reentrancies     -> P: 0.717,  R: 0.724,  F: 0.721
+SRL              -> P: 0.826,  R: 0.828,  F: 0.827
+ 
+max number of tokens: 18
+Smatch           -> P: 0.848,  R: 0.852,  F: 0.850
+Unlabeled        -> P: 0.878,  R: 0.883,  F: 0.880
+No WSD           -> P: 0.822,  R: 0.826,  F: 0.824
+Non_sense_frames -> P: 0.888,  R: 0.889,  F: 0.888
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.792,  R: 0.826,  F: 0.809
+Negations        -> P: 0.871,  R: 0.843,  F: 0.856
+IgnoreVars       -> P: 0.721,  R: 0.727,  F: 0.724
+Concepts         -> P: 0.892,  R: 0.898,  F: 0.895
+Frames           -> P: 0.846,  R: 0.847,  F: 0.847
+Reentrancies     -> P: 0.715,  R: 0.724,  F: 0.720
+SRL              -> P: 0.819,  R: 0.824,  F: 0.822
+ 
+max number of tokens: 19
+Smatch           -> P: 0.847,  R: 0.853,  F: 0.850
+Unlabeled        -> P: 0.877,  R: 0.884,  F: 0.880
+No WSD           -> P: 0.821,  R: 0.828,  F: 0.824
+Non_sense_frames -> P: 0.890,  R: 0.891,  F: 0.890
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.792,  R: 0.826,  F: 0.809
+Negations        -> P: 0.877,  R: 0.850,  F: 0.863
+IgnoreVars       -> P: 0.720,  R: 0.728,  F: 0.724
+Concepts         -> P: 0.892,  R: 0.900,  F: 0.896
+Frames           -> P: 0.847,  R: 0.849,  F: 0.848
+Reentrancies     -> P: 0.718,  R: 0.730,  F: 0.724
+SRL              -> P: 0.821,  R: 0.827,  F: 0.824
+ 
+max number of tokens: 20
+Smatch           -> P: 0.843,  R: 0.850,  F: 0.847
+Unlabeled        -> P: 0.875,  R: 0.882,  F: 0.878
+No WSD           -> P: 0.817,  R: 0.825,  F: 0.821
+Non_sense_frames -> P: 0.888,  R: 0.890,  F: 0.889
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.800,  R: 0.833,  F: 0.816
+Negations        -> P: 0.868,  R: 0.843,  F: 0.855
+IgnoreVars       -> P: 0.716,  R: 0.724,  F: 0.720
+Concepts         -> P: 0.891,  R: 0.899,  F: 0.895
+Frames           -> P: 0.846,  R: 0.847,  F: 0.847
+Reentrancies     -> P: 0.717,  R: 0.731,  F: 0.724
+SRL              -> P: 0.819,  R: 0.824,  F: 0.822
+ 
+max number of tokens: 21
+Smatch           -> P: 0.842,  R: 0.850,  F: 0.846
+Unlabeled        -> P: 0.874,  R: 0.881,  F: 0.878
+No WSD           -> P: 0.817,  R: 0.824,  F: 0.821
+Non_sense_frames -> P: 0.888,  R: 0.891,  F: 0.889
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.769,  R: 0.800,  F: 0.784
+Negations        -> P: 0.860,  R: 0.835,  F: 0.848
+IgnoreVars       -> P: 0.715,  R: 0.723,  F: 0.719
+Concepts         -> P: 0.890,  R: 0.899,  F: 0.894
+Frames           -> P: 0.844,  R: 0.847,  F: 0.846
+Reentrancies     -> P: 0.719,  R: 0.734,  F: 0.726
+SRL              -> P: 0.819,  R: 0.823,  F: 0.821
+ 
+max number of tokens: 22
+Smatch           -> P: 0.838,  R: 0.845,  F: 0.842
+Unlabeled        -> P: 0.870,  R: 0.877,  F: 0.874
+No WSD           -> P: 0.813,  R: 0.820,  F: 0.816
+Non_sense_frames -> P: 0.885,  R: 0.888,  F: 0.887
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.767,  R: 0.793,  F: 0.780
+Negations        -> P: 0.860,  R: 0.836,  F: 0.848
+IgnoreVars       -> P: 0.709,  R: 0.717,  F: 0.713
+Concepts         -> P: 0.888,  R: 0.897,  F: 0.892
+Frames           -> P: 0.842,  R: 0.845,  F: 0.843
+Reentrancies     -> P: 0.715,  R: 0.728,  F: 0.722
+SRL              -> P: 0.814,  R: 0.818,  F: 0.816
+ 
+max number of tokens: 23
+Smatch           -> P: 0.837,  R: 0.845,  F: 0.841
+Unlabeled        -> P: 0.869,  R: 0.878,  F: 0.873
+No WSD           -> P: 0.811,  R: 0.819,  F: 0.815
+Non_sense_frames -> P: 0.886,  R: 0.889,  F: 0.888
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.767,  R: 0.793,  F: 0.780
+Negations        -> P: 0.857,  R: 0.833,  F: 0.845
+IgnoreVars       -> P: 0.707,  R: 0.715,  F: 0.711
+Concepts         -> P: 0.886,  R: 0.896,  F: 0.891
+Frames           -> P: 0.841,  R: 0.843,  F: 0.842
+Reentrancies     -> P: 0.719,  R: 0.732,  F: 0.726
+SRL              -> P: 0.814,  R: 0.818,  F: 0.816
+ 
+max number of tokens: 24
+Smatch           -> P: 0.835,  R: 0.844,  F: 0.840
+Unlabeled        -> P: 0.868,  R: 0.878,  F: 0.873
+No WSD           -> P: 0.810,  R: 0.819,  F: 0.815
+Non_sense_frames -> P: 0.885,  R: 0.888,  F: 0.887
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.781,  R: 0.806,  F: 0.794
+Negations        -> P: 0.857,  R: 0.828,  F: 0.843
+IgnoreVars       -> P: 0.705,  R: 0.715,  F: 0.710
+Concepts         -> P: 0.885,  R: 0.896,  F: 0.891
+Frames           -> P: 0.840,  R: 0.843,  F: 0.842
+Reentrancies     -> P: 0.718,  R: 0.733,  F: 0.725
+SRL              -> P: 0.811,  R: 0.817,  F: 0.814
+ 
+max number of tokens: 25
+Smatch           -> P: 0.833,  R: 0.844,  F: 0.838
+Unlabeled        -> P: 0.867,  R: 0.877,  F: 0.872
+No WSD           -> P: 0.808,  R: 0.818,  F: 0.813
+Non_sense_frames -> P: 0.884,  R: 0.890,  F: 0.887
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.758,  R: 0.806,  F: 0.781
+Negations        -> P: 0.858,  R: 0.824,  F: 0.841
+IgnoreVars       -> P: 0.703,  R: 0.714,  F: 0.708
+Concepts         -> P: 0.885,  R: 0.896,  F: 0.890
+Frames           -> P: 0.838,  R: 0.844,  F: 0.841
+Reentrancies     -> P: 0.715,  R: 0.731,  F: 0.723
+SRL              -> P: 0.809,  R: 0.816,  F: 0.812
+ 
+max number of tokens: 26
+Smatch           -> P: 0.833,  R: 0.843,  F: 0.838
+Unlabeled        -> P: 0.866,  R: 0.876,  F: 0.871
+No WSD           -> P: 0.808,  R: 0.817,  F: 0.813
+Non_sense_frames -> P: 0.884,  R: 0.889,  F: 0.887
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.735,  R: 0.806,  F: 0.769
+Negations        -> P: 0.853,  R: 0.816,  F: 0.834
+IgnoreVars       -> P: 0.703,  R: 0.713,  F: 0.708
+Concepts         -> P: 0.885,  R: 0.895,  F: 0.890
+Frames           -> P: 0.839,  R: 0.843,  F: 0.841
+Reentrancies     -> P: 0.717,  R: 0.733,  F: 0.725
+SRL              -> P: 0.809,  R: 0.816,  F: 0.813
+ 
+max number of tokens: 27
+Smatch           -> P: 0.833,  R: 0.842,  F: 0.838
+Unlabeled        -> P: 0.866,  R: 0.876,  F: 0.871
+No WSD           -> P: 0.809,  R: 0.817,  F: 0.813
+Non_sense_frames -> P: 0.885,  R: 0.889,  F: 0.887
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.743,  R: 0.812,  F: 0.776
+Negations        -> P: 0.853,  R: 0.816,  F: 0.834
+IgnoreVars       -> P: 0.702,  R: 0.712,  F: 0.707
+Concepts         -> P: 0.885,  R: 0.895,  F: 0.890
+Frames           -> P: 0.838,  R: 0.842,  F: 0.840
+Reentrancies     -> P: 0.719,  R: 0.734,  F: 0.727
+SRL              -> P: 0.810,  R: 0.816,  F: 0.813
+ 
+max number of tokens: 28
+Smatch           -> P: 0.832,  R: 0.842,  F: 0.837
+Unlabeled        -> P: 0.866,  R: 0.875,  F: 0.871
+No WSD           -> P: 0.807,  R: 0.817,  F: 0.812
+Non_sense_frames -> P: 0.885,  R: 0.889,  F: 0.887
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.743,  R: 0.812,  F: 0.776
+Negations        -> P: 0.852,  R: 0.813,  F: 0.832
+IgnoreVars       -> P: 0.700,  R: 0.711,  F: 0.705
+Concepts         -> P: 0.885,  R: 0.895,  F: 0.890
+Frames           -> P: 0.839,  R: 0.843,  F: 0.841
+Reentrancies     -> P: 0.718,  R: 0.734,  F: 0.726
+SRL              -> P: 0.808,  R: 0.816,  F: 0.812
+ 
+max number of tokens: 29
+Smatch           -> P: 0.832,  R: 0.841,  F: 0.836
+Unlabeled        -> P: 0.865,  R: 0.875,  F: 0.870
+No WSD           -> P: 0.807,  R: 0.816,  F: 0.811
+Non_sense_frames -> P: 0.883,  R: 0.889,  F: 0.886
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.757,  R: 0.824,  F: 0.789
+Negations        -> P: 0.849,  R: 0.811,  F: 0.829
+IgnoreVars       -> P: 0.699,  R: 0.709,  F: 0.704
+Concepts         -> P: 0.885,  R: 0.895,  F: 0.890
+Frames           -> P: 0.837,  R: 0.843,  F: 0.840
+Reentrancies     -> P: 0.717,  R: 0.732,  F: 0.725
+SRL              -> P: 0.806,  R: 0.815,  F: 0.811
+ 
+max number of tokens: 30
+Smatch           -> P: 0.831,  R: 0.840,  F: 0.835
+Unlabeled        -> P: 0.864,  R: 0.874,  F: 0.869
+No WSD           -> P: 0.806,  R: 0.815,  F: 0.811
+Non_sense_frames -> P: 0.884,  R: 0.889,  F: 0.886
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.757,  R: 0.824,  F: 0.789
+Negations        -> P: 0.851,  R: 0.812,  F: 0.831
+IgnoreVars       -> P: 0.698,  R: 0.709,  F: 0.704
+Concepts         -> P: 0.884,  R: 0.895,  F: 0.890
+Frames           -> P: 0.838,  R: 0.843,  F: 0.840
+Reentrancies     -> P: 0.718,  R: 0.730,  F: 0.724
+SRL              -> P: 0.805,  R: 0.814,  F: 0.810
+ 
+max number of tokens: 31
+Smatch           -> P: 0.831,  R: 0.840,  F: 0.835
+Unlabeled        -> P: 0.864,  R: 0.874,  F: 0.869
+No WSD           -> P: 0.806,  R: 0.815,  F: 0.810
+Non_sense_frames -> P: 0.884,  R: 0.889,  F: 0.886
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.757,  R: 0.824,  F: 0.789
+Negations        -> P: 0.851,  R: 0.813,  F: 0.832
+IgnoreVars       -> P: 0.698,  R: 0.709,  F: 0.703
+Concepts         -> P: 0.884,  R: 0.895,  F: 0.890
+Frames           -> P: 0.838,  R: 0.843,  F: 0.840
+Reentrancies     -> P: 0.718,  R: 0.732,  F: 0.725
+SRL              -> P: 0.805,  R: 0.814,  F: 0.810
+ 
+max number of tokens: 32
+Smatch           -> P: 0.830,  R: 0.839,  F: 0.834
+Unlabeled        -> P: 0.864,  R: 0.874,  F: 0.869
+No WSD           -> P: 0.805,  R: 0.814,  F: 0.810
+Non_sense_frames -> P: 0.883,  R: 0.888,  F: 0.886
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.811,  F: 0.779
+Negations        -> P: 0.850,  R: 0.807,  F: 0.828
+IgnoreVars       -> P: 0.696,  R: 0.705,  F: 0.701
+Concepts         -> P: 0.884,  R: 0.894,  F: 0.889
+Frames           -> P: 0.836,  R: 0.841,  F: 0.839
+Reentrancies     -> P: 0.717,  R: 0.729,  F: 0.723
+SRL              -> P: 0.804,  R: 0.812,  F: 0.808
+ 
+max number of tokens: 33
+Smatch           -> P: 0.828,  R: 0.838,  F: 0.833
+Unlabeled        -> P: 0.863,  R: 0.873,  F: 0.868
+No WSD           -> P: 0.804,  R: 0.813,  F: 0.809
+Non_sense_frames -> P: 0.883,  R: 0.888,  F: 0.885
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.732,  R: 0.789,  F: 0.759
+Negations        -> P: 0.850,  R: 0.804,  F: 0.826
+IgnoreVars       -> P: 0.694,  R: 0.705,  F: 0.700
+Concepts         -> P: 0.883,  R: 0.894,  F: 0.889
+Frames           -> P: 0.836,  R: 0.841,  F: 0.839
+Reentrancies     -> P: 0.716,  R: 0.729,  F: 0.722
+SRL              -> P: 0.803,  R: 0.811,  F: 0.807
+ 
+max number of tokens: 34
+Smatch           -> P: 0.828,  R: 0.838,  F: 0.833
+Unlabeled        -> P: 0.863,  R: 0.873,  F: 0.868
+No WSD           -> P: 0.804,  R: 0.813,  F: 0.808
+Non_sense_frames -> P: 0.883,  R: 0.889,  F: 0.886
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.738,  R: 0.775,  F: 0.756
+Negations        -> P: 0.848,  R: 0.797,  F: 0.821
+IgnoreVars       -> P: 0.694,  R: 0.704,  F: 0.699
+Concepts         -> P: 0.883,  R: 0.894,  F: 0.888
+Frames           -> P: 0.835,  R: 0.841,  F: 0.838
+Reentrancies     -> P: 0.716,  R: 0.731,  F: 0.723
+SRL              -> P: 0.803,  R: 0.811,  F: 0.807
+ 
+max number of tokens: 35
+Smatch           -> P: 0.828,  R: 0.838,  F: 0.833
+Unlabeled        -> P: 0.863,  R: 0.873,  F: 0.868
+No WSD           -> P: 0.803,  R: 0.812,  F: 0.808
+Non_sense_frames -> P: 0.882,  R: 0.888,  F: 0.885
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.738,  R: 0.775,  F: 0.756
+Negations        -> P: 0.845,  R: 0.794,  F: 0.818
+IgnoreVars       -> P: 0.694,  R: 0.704,  F: 0.699
+Concepts         -> P: 0.882,  R: 0.894,  F: 0.888
+Frames           -> P: 0.835,  R: 0.841,  F: 0.838
+Reentrancies     -> P: 0.716,  R: 0.730,  F: 0.723
+SRL              -> P: 0.803,  R: 0.811,  F: 0.807
+ 
+max number of tokens: 36
+Smatch           -> P: 0.828,  R: 0.837,  F: 0.833
+Unlabeled        -> P: 0.863,  R: 0.872,  F: 0.867
+No WSD           -> P: 0.803,  R: 0.812,  F: 0.808
+Non_sense_frames -> P: 0.883,  R: 0.888,  F: 0.886
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.738,  R: 0.775,  F: 0.756
+Negations        -> P: 0.845,  R: 0.795,  F: 0.819
+IgnoreVars       -> P: 0.694,  R: 0.704,  F: 0.699
+Concepts         -> P: 0.882,  R: 0.893,  F: 0.888
+Frames           -> P: 0.835,  R: 0.841,  F: 0.838
+Reentrancies     -> P: 0.716,  R: 0.730,  F: 0.723
+SRL              -> P: 0.803,  R: 0.811,  F: 0.807
+ 
+max number of tokens: 37
+Smatch           -> P: 0.828,  R: 0.837,  F: 0.832
+Unlabeled        -> P: 0.863,  R: 0.872,  F: 0.868
+No WSD           -> P: 0.803,  R: 0.812,  F: 0.807
+Non_sense_frames -> P: 0.882,  R: 0.888,  F: 0.885
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.738,  R: 0.775,  F: 0.756
+Negations        -> P: 0.846,  R: 0.796,  F: 0.820
+IgnoreVars       -> P: 0.693,  R: 0.703,  F: 0.698
+Concepts         -> P: 0.882,  R: 0.893,  F: 0.888
+Frames           -> P: 0.835,  R: 0.841,  F: 0.838
+Reentrancies     -> P: 0.715,  R: 0.730,  F: 0.722
+SRL              -> P: 0.802,  R: 0.810,  F: 0.806
+ 
+max number of tokens: 38
+Smatch           -> P: 0.828,  R: 0.837,  F: 0.832
+Unlabeled        -> P: 0.863,  R: 0.872,  F: 0.868
+No WSD           -> P: 0.803,  R: 0.812,  F: 0.807
+Non_sense_frames -> P: 0.882,  R: 0.888,  F: 0.885
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.738,  R: 0.775,  F: 0.756
+Negations        -> P: 0.847,  R: 0.797,  F: 0.822
+IgnoreVars       -> P: 0.693,  R: 0.703,  F: 0.698
+Concepts         -> P: 0.883,  R: 0.893,  F: 0.888
+Frames           -> P: 0.835,  R: 0.841,  F: 0.838
+Reentrancies     -> P: 0.716,  R: 0.731,  F: 0.723
+SRL              -> P: 0.803,  R: 0.811,  F: 0.807
+ 
+max number of tokens: 39
+Smatch           -> P: 0.827,  R: 0.836,  F: 0.832
+Unlabeled        -> P: 0.862,  R: 0.872,  F: 0.867
+No WSD           -> P: 0.802,  R: 0.811,  F: 0.807
+Non_sense_frames -> P: 0.882,  R: 0.889,  F: 0.885
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.721,  R: 0.775,  F: 0.747
+Negations        -> P: 0.840,  R: 0.794,  F: 0.816
+IgnoreVars       -> P: 0.692,  R: 0.702,  F: 0.697
+Concepts         -> P: 0.882,  R: 0.893,  F: 0.888
+Frames           -> P: 0.835,  R: 0.842,  F: 0.838
+Reentrancies     -> P: 0.717,  R: 0.732,  F: 0.725
+SRL              -> P: 0.803,  R: 0.811,  F: 0.807
+ 
+max number of tokens: 40
+Smatch           -> P: 0.826,  R: 0.835,  F: 0.831
+Unlabeled        -> P: 0.861,  R: 0.871,  F: 0.866
+No WSD           -> P: 0.802,  R: 0.811,  F: 0.806
+Non_sense_frames -> P: 0.881,  R: 0.889,  F: 0.885
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.739,  R: 0.791,  F: 0.764
+Negations        -> P: 0.840,  R: 0.791,  F: 0.815
+IgnoreVars       -> P: 0.692,  R: 0.702,  F: 0.697
+Concepts         -> P: 0.882,  R: 0.893,  F: 0.887
+Frames           -> P: 0.834,  R: 0.841,  F: 0.838
+Reentrancies     -> P: 0.716,  R: 0.731,  F: 0.724
+SRL              -> P: 0.802,  R: 0.810,  F: 0.806
+ 
+max number of tokens: 41
+Smatch           -> P: 0.826,  R: 0.834,  F: 0.830
+Unlabeled        -> P: 0.861,  R: 0.870,  F: 0.865
+No WSD           -> P: 0.801,  R: 0.809,  F: 0.805
+Non_sense_frames -> P: 0.881,  R: 0.888,  F: 0.885
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.739,  R: 0.791,  F: 0.764
+Negations        -> P: 0.840,  R: 0.792,  F: 0.815
+IgnoreVars       -> P: 0.691,  R: 0.701,  F: 0.696
+Concepts         -> P: 0.882,  R: 0.893,  F: 0.887
+Frames           -> P: 0.835,  R: 0.841,  F: 0.838
+Reentrancies     -> P: 0.716,  R: 0.731,  F: 0.723
+SRL              -> P: 0.802,  R: 0.810,  F: 0.806
+ 
+max number of tokens: 42
+Smatch           -> P: 0.825,  R: 0.834,  F: 0.830
+Unlabeled        -> P: 0.861,  R: 0.870,  F: 0.865
+No WSD           -> P: 0.800,  R: 0.809,  F: 0.805
+Non_sense_frames -> P: 0.881,  R: 0.888,  F: 0.885
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.800,  F: 0.774
+Negations        -> P: 0.837,  R: 0.789,  F: 0.812
+IgnoreVars       -> P: 0.690,  R: 0.701,  F: 0.695
+Concepts         -> P: 0.881,  R: 0.892,  F: 0.887
+Frames           -> P: 0.834,  R: 0.841,  F: 0.838
+Reentrancies     -> P: 0.715,  R: 0.732,  F: 0.723
+SRL              -> P: 0.801,  R: 0.810,  F: 0.805
+ 
+max number of tokens: 43
+Smatch           -> P: 0.825,  R: 0.834,  F: 0.830
+Unlabeled        -> P: 0.861,  R: 0.870,  F: 0.865
+No WSD           -> P: 0.801,  R: 0.809,  F: 0.805
+Non_sense_frames -> P: 0.881,  R: 0.888,  F: 0.885
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.800,  F: 0.774
+Negations        -> P: 0.837,  R: 0.789,  F: 0.812
+IgnoreVars       -> P: 0.690,  R: 0.701,  F: 0.695
+Concepts         -> P: 0.881,  R: 0.892,  F: 0.887
+Frames           -> P: 0.834,  R: 0.841,  F: 0.838
+Reentrancies     -> P: 0.715,  R: 0.732,  F: 0.723
+SRL              -> P: 0.801,  R: 0.810,  F: 0.805
+ 
+max number of tokens: 44
+Smatch           -> P: 0.825,  R: 0.833,  F: 0.829
+Unlabeled        -> P: 0.860,  R: 0.869,  F: 0.865
+No WSD           -> P: 0.800,  R: 0.808,  F: 0.804
+Non_sense_frames -> P: 0.880,  R: 0.888,  F: 0.884
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.800,  F: 0.774
+Negations        -> P: 0.838,  R: 0.790,  F: 0.813
+IgnoreVars       -> P: 0.689,  R: 0.700,  F: 0.695
+Concepts         -> P: 0.881,  R: 0.892,  F: 0.886
+Frames           -> P: 0.833,  R: 0.841,  F: 0.837
+Reentrancies     -> P: 0.715,  R: 0.729,  F: 0.722
+SRL              -> P: 0.800,  R: 0.808,  F: 0.804
+ 
+max number of tokens: 45
+Smatch           -> P: 0.824,  R: 0.833,  F: 0.828
+Unlabeled        -> P: 0.860,  R: 0.869,  F: 0.864
+No WSD           -> P: 0.799,  R: 0.808,  F: 0.803
+Non_sense_frames -> P: 0.880,  R: 0.888,  F: 0.884
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.800,  F: 0.774
+Negations        -> P: 0.838,  R: 0.790,  F: 0.814
+IgnoreVars       -> P: 0.688,  R: 0.699,  F: 0.693
+Concepts         -> P: 0.880,  R: 0.891,  F: 0.886
+Frames           -> P: 0.833,  R: 0.840,  F: 0.837
+Reentrancies     -> P: 0.714,  R: 0.729,  F: 0.721
+SRL              -> P: 0.799,  R: 0.808,  F: 0.804
+ 
+max number of tokens: 46
+Smatch           -> P: 0.824,  R: 0.833,  F: 0.828
+Unlabeled        -> P: 0.860,  R: 0.868,  F: 0.864
+No WSD           -> P: 0.799,  R: 0.807,  F: 0.803
+Non_sense_frames -> P: 0.880,  R: 0.888,  F: 0.884
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.800,  F: 0.774
+Negations        -> P: 0.838,  R: 0.790,  F: 0.814
+IgnoreVars       -> P: 0.688,  R: 0.699,  F: 0.693
+Concepts         -> P: 0.880,  R: 0.891,  F: 0.886
+Frames           -> P: 0.833,  R: 0.840,  F: 0.837
+Reentrancies     -> P: 0.714,  R: 0.729,  F: 0.721
+SRL              -> P: 0.799,  R: 0.808,  F: 0.804
+ 
+max number of tokens: 47
+Smatch           -> P: 0.824,  R: 0.832,  F: 0.828
+Unlabeled        -> P: 0.859,  R: 0.867,  F: 0.863
+No WSD           -> P: 0.799,  R: 0.806,  F: 0.802
+Non_sense_frames -> P: 0.879,  R: 0.887,  F: 0.883
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.740,  R: 0.804,  F: 0.771
+Negations        -> P: 0.839,  R: 0.791,  F: 0.814
+IgnoreVars       -> P: 0.687,  R: 0.697,  F: 0.692
+Concepts         -> P: 0.880,  R: 0.891,  F: 0.885
+Frames           -> P: 0.832,  R: 0.840,  F: 0.836
+Reentrancies     -> P: 0.713,  R: 0.728,  F: 0.720
+SRL              -> P: 0.799,  R: 0.807,  F: 0.803
+ 
+max number of tokens: 48
+Smatch           -> P: 0.823,  R: 0.831,  F: 0.827
+Unlabeled        -> P: 0.859,  R: 0.867,  F: 0.863
+No WSD           -> P: 0.798,  R: 0.806,  F: 0.802
+Non_sense_frames -> P: 0.879,  R: 0.887,  F: 0.883
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.740,  R: 0.804,  F: 0.771
+Negations        -> P: 0.840,  R: 0.790,  F: 0.814
+IgnoreVars       -> P: 0.687,  R: 0.697,  F: 0.692
+Concepts         -> P: 0.880,  R: 0.891,  F: 0.885
+Frames           -> P: 0.833,  R: 0.840,  F: 0.836
+Reentrancies     -> P: 0.713,  R: 0.728,  F: 0.721
+SRL              -> P: 0.799,  R: 0.806,  F: 0.803
+ 
+max number of tokens: 49
+Smatch           -> P: 0.823,  R: 0.831,  F: 0.827
+Unlabeled        -> P: 0.859,  R: 0.867,  F: 0.863
+No WSD           -> P: 0.798,  R: 0.806,  F: 0.802
+Non_sense_frames -> P: 0.879,  R: 0.887,  F: 0.883
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.740,  R: 0.804,  F: 0.771
+Negations        -> P: 0.841,  R: 0.791,  F: 0.815
+IgnoreVars       -> P: 0.687,  R: 0.697,  F: 0.692
+Concepts         -> P: 0.880,  R: 0.891,  F: 0.885
+Frames           -> P: 0.833,  R: 0.840,  F: 0.836
+Reentrancies     -> P: 0.713,  R: 0.727,  F: 0.720
+SRL              -> P: 0.799,  R: 0.806,  F: 0.803
+ 
+max number of tokens: 50
+Smatch           -> P: 0.823,  R: 0.831,  F: 0.827
+Unlabeled        -> P: 0.858,  R: 0.867,  F: 0.863
+No WSD           -> P: 0.798,  R: 0.806,  F: 0.802
+Non_sense_frames -> P: 0.879,  R: 0.887,  F: 0.883
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.740,  R: 0.804,  F: 0.771
+Negations        -> P: 0.839,  R: 0.789,  F: 0.813
+IgnoreVars       -> P: 0.686,  R: 0.696,  F: 0.691
+Concepts         -> P: 0.880,  R: 0.891,  F: 0.885
+Frames           -> P: 0.833,  R: 0.840,  F: 0.836
+Reentrancies     -> P: 0.713,  R: 0.727,  F: 0.720
+SRL              -> P: 0.798,  R: 0.806,  F: 0.802
+ 
+max number of tokens: 51
+Smatch           -> P: 0.823,  R: 0.831,  F: 0.827
+Unlabeled        -> P: 0.858,  R: 0.867,  F: 0.863
+No WSD           -> P: 0.797,  R: 0.806,  F: 0.801
+Non_sense_frames -> P: 0.879,  R: 0.886,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.745,  R: 0.809,  F: 0.776
+Negations        -> P: 0.833,  R: 0.787,  F: 0.810
+IgnoreVars       -> P: 0.685,  R: 0.695,  F: 0.690
+Concepts         -> P: 0.880,  R: 0.891,  F: 0.885
+Frames           -> P: 0.832,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.712,  R: 0.726,  F: 0.719
+SRL              -> P: 0.798,  R: 0.805,  F: 0.802
+ 
+max number of tokens: 52
+Smatch           -> P: 0.822,  R: 0.831,  F: 0.826
+Unlabeled        -> P: 0.858,  R: 0.867,  F: 0.862
+No WSD           -> P: 0.797,  R: 0.805,  F: 0.801
+Non_sense_frames -> P: 0.879,  R: 0.886,  F: 0.883
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.745,  R: 0.792,  F: 0.768
+Negations        -> P: 0.833,  R: 0.787,  F: 0.810
+IgnoreVars       -> P: 0.685,  R: 0.695,  F: 0.690
+Concepts         -> P: 0.880,  R: 0.891,  F: 0.885
+Frames           -> P: 0.832,  R: 0.839,  F: 0.836
+Reentrancies     -> P: 0.712,  R: 0.726,  F: 0.719
+SRL              -> P: 0.798,  R: 0.805,  F: 0.802
+ 
+max number of tokens: 53
+Smatch           -> P: 0.821,  R: 0.830,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.862
+No WSD           -> P: 0.796,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.886,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.745,  R: 0.792,  F: 0.768
+Negations        -> P: 0.831,  R: 0.783,  F: 0.806
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.891,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.797,  R: 0.805,  F: 0.801
+ 
+max number of tokens: 54
+Smatch           -> P: 0.821,  R: 0.830,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.862
+No WSD           -> P: 0.796,  R: 0.805,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.886,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.745,  R: 0.792,  F: 0.768
+Negations        -> P: 0.831,  R: 0.783,  F: 0.806
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.891,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.710,  R: 0.724,  F: 0.717
+SRL              -> P: 0.797,  R: 0.805,  F: 0.801
+ 
+max number of tokens: 55
+Smatch           -> P: 0.821,  R: 0.830,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.862
+No WSD           -> P: 0.796,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.886,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.831,  R: 0.783,  F: 0.806
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.891,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.710,  R: 0.725,  F: 0.717
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 56
+Smatch           -> P: 0.821,  R: 0.830,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.862
+No WSD           -> P: 0.796,  R: 0.805,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.886,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.831,  R: 0.783,  F: 0.806
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.891,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.710,  R: 0.725,  F: 0.717
+SRL              -> P: 0.796,  R: 0.805,  F: 0.801
+ 
+max number of tokens: 57
+Smatch           -> P: 0.821,  R: 0.830,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.862
+No WSD           -> P: 0.796,  R: 0.805,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.886,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.831,  R: 0.783,  F: 0.806
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.891,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.801
+ 
+max number of tokens: 58
+Smatch           -> P: 0.821,  R: 0.830,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.886,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.807
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.891,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.801
+ 
+max number of tokens: 59
+Smatch           -> P: 0.821,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.796,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.886,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.807
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.891,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.801
+ 
+max number of tokens: 60
+Smatch           -> P: 0.821,  R: 0.830,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.796,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.886,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.807
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.891,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.801
+ 
+max number of tokens: 61
+Smatch           -> P: 0.821,  R: 0.830,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.796,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.886,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.807
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.891,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.801
+ 
+max number of tokens: 62
+Smatch           -> P: 0.821,  R: 0.830,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.796,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.886,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.807
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.891,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.801
+ 
+max number of tokens: 63
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.801
+ 
+max number of tokens: 64
+Smatch           -> P: 0.821,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.801
+ 
+max number of tokens: 65
+Smatch           -> P: 0.821,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.724,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.801
+ 
+max number of tokens: 66
+Smatch           -> P: 0.821,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.724,  F: 0.717
+SRL              -> P: 0.796,  R: 0.805,  F: 0.801
+ 
+max number of tokens: 67
+Smatch           -> P: 0.821,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.801
+ 
+max number of tokens: 68
+Smatch           -> P: 0.821,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.801
+ 
+max number of tokens: 69
+Smatch           -> P: 0.821,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.796,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.801
+ 
+max number of tokens: 70
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.724,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 71
+Smatch           -> P: 0.821,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 72
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.856,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.724,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 73
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 74
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 75
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 76
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 77
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 78
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 79
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.803,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 80
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.856,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 81
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 82
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 83
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 84
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 85
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 86
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.862
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.724,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 87
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 88
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 89
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 90
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 91
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 92
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 93
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 94
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 95
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 96
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.724,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 97
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 98
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.724,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 99
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 100
+Smatch           -> P: 0.820,  R: 0.829,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.861
+No WSD           -> P: 0.795,  R: 0.804,  F: 0.799
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.882
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.683,  R: 0.693,  F: 0.688
+Concepts         -> P: 0.879,  R: 0.890,  F: 0.884
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.711,  R: 0.725,  F: 0.718
+SRL              -> P: 0.796,  R: 0.805,  F: 0.800
+ 
+max number of tokens: 101
+Smatch           -> P: 0.821,  R: 0.830,  F: 0.825
+Unlabeled        -> P: 0.857,  R: 0.866,  F: 0.862
+No WSD           -> P: 0.796,  R: 0.804,  F: 0.800
+Non_sense_frames -> P: 0.878,  R: 0.887,  F: 0.883
+Wikification     -> P: 0.000,  R: 0.000,  F: 0.000
+Named Ent.       -> P: 0.750,  R: 0.796,  F: 0.772
+Negations        -> P: 0.832,  R: 0.784,  F: 0.808
+IgnoreVars       -> P: 0.684,  R: 0.694,  F: 0.689
+Concepts         -> P: 0.879,  R: 0.891,  F: 0.885
+Frames           -> P: 0.831,  R: 0.839,  F: 0.835
+Reentrancies     -> P: 0.712,  R: 0.726,  F: 0.719
+SRL              -> P: 0.797,  R: 0.805,  F: 0.801
+ 

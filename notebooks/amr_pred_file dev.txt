@@ -1,0 +1,40 @@
+# ::tok Passage 1-1 ( Results )
+# ::alignments p~0 r~1 0~1 1~1 a~2 r2~3
+(a / and
+    :op1 (p / pass-01
+        :mod (r / ratio-of
+            :op1 1
+            :op2 1))
+    :op2 (r2 / result-01))
+
+# ::tok Passage 1-2 ( Discussion / Conclusion )
+# ::alignments t~0 0~0 2~0 v~1 1~1 d~3 s~4 c~5
+(s / slash
+    :mod (v / value-interval
+        :op1 3
+        :op2 2)
+    :op1 (d / discuss-01)
+    :op2 (c / conclude-01)
+    :rel (t / thing
+        :quant 2))
+
+# ::tok Passage 1-1 ( Results )
+# ::alignments p~0 r~1 0~1 1~1 a~2 r2~3
+(a / and
+    :op1 (p / pass-01
+        :mod (r / ratio-of
+            :op1 1
+            :op2 1))
+    :op2 (r2 / result-01))
+
+# ::tok Passage 1-2 ( Discussion / Conclusion )
+# ::alignments t~0 0~0 2~0 v~1 1~1 d~3 s~4 c~5
+(s / slash
+    :mod (v / value-interval
+        :op1 3
+        :op2 2)
+    :op1 (d / discuss-01)
+    :op2 (c / conclude-01)
+    :rel (t / thing
+        :quant 2))
+

@@ -1,0 +1,18 @@
+(c / catch
+   :ARG0 (a / animal :name (c2 / cat))
+   :ARG1 (a2 / animal :name (m / mouse)))
+
+(p / person :name (s / she)
+   :ARG0 (p2 / play
+             :ARG1 (i / instrument :name (piano / piano)))) 
+
+(p / person :name (t / they)
+   :ARG0 (r / read
+             :ARG1 (b / book))
+   :ARG1 (p2 / play
+             :ARG1 (g / game)))
+
+(p / person :name (c / chef)
+   :ARG0 (c2 / cook
+             :ARG1 (m / meal
+                      :mod (d / delicious))))
