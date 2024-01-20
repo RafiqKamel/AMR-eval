@@ -147,4 +147,4 @@ def plot_buckets(results, title= ""):
     results, x="n_tokens_binned", y="f1",
     color="b",  width_method="linear", ax = ax[0]
     ).set(title=title) 
-    sns.scatterplot(results, x='n_tokens',y='n_entries', ax = ax[1])
+    sns.barplot(results, x="n_tokens_binned", y="n_entries", ax = ax[1])

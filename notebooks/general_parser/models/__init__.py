@@ -1,4 +1,3 @@
-from ._vanilla_LLM import vanilla_parser
 from ._base_parser import AbstractParser
 from ._ibm_transition_parser import transition_AMR_parser
 from ._AMRBART_generator import AMRBART_generator
