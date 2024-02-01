@@ -18,13 +18,15 @@ def evaluate_text_bleu(ref, hyp):
 def smatch_score(test, gold):
     test_entries = get_entries(test)
     gold_entries = get_entries(gold)
+    print(test_entries)
+    print(gold_entries)
     return compute_smatch(test_entries, gold_entries)
     
 
 def evaluate_text(preds, gold, evaluation_function= "bleu"):
     if evaluation_function == "bleu":
         evaluation_function = evaluate_text_bleu
-    return evluation_function(gold, preds)    
+    return evaluation_function(gold, preds)    
     
 def evaluate_AMRs(preds, gold, gold_save_path=None, pred_save_path=None, evaluation_function= None):
     if evaluation_function is None:
@@ -59,7 +61,7 @@ def create_eval_dataframe(preds, gold, sentences):
 
 def eval_bottom_up(preds, gold, sentences, evaluation_mode = "AMR", evaluation_function=None):
     if evaluation_mode == "AMR":
-        evaluation_mode = evaluate_AMRs
+        evaluation_mode = evaluate_AMR
     elif evaluation_mode == "text":
         evaluation_mode = evaluate_text
     if evaluation_function is None:
@@ -78,16 +80,19 @@ def eval_bottom_up(preds, gold, sentences, evaluation_mode = "AMR", evaluation_f
         print("max number of tokens: " + str(current_max), "number of entries:",len(df_tmp))
         row["n_tokens"] = current_max
         row["n_entries"] = len(df_tmp)
-        row["metrics"]=evaluation_mode(
+        row["bleu"]=evaluation_mode(
             preds = df_tmp['pred'], 
             gold = df_tmp['gold'],
             evaluation_function = evaluation_function
         )
-        row["SMATCH F1"]= row["metrics"][2]
         results = pd.concat([results, pd.DataFrame([row])], ignore_index=True)
         print(" ")
     return results
 def eval_at_each_level(preds, gold, sentences, evaluation_mode = "AMR", evaluation_function=None):
+    if evaluation_mode == "AMR":
+        evaluation_mode = evaluate_AMR
+    elif evaluation_mode == "text":
+        evaluation_mode = evaluate_text
     if evaluation_function is None:
         evaluation_function = compute_scores
     eval_df = create_eval_dataframe(preds=preds,gold=gold, sentences=sentences)
@@ -102,17 +107,20 @@ def eval_at_each_level(preds, gold, sentences, evaluation_mode = "AMR", evaluati
         print("number of tokens: " + str(current), "number of entries:",len(df_tmp))
         row["n_tokens"] = current
         row["n_entries"] = len(df_tmp)
-        row["metrics"]=evaluate_AMRs(
+        row["metric"]=evaluation_mode(
             preds = df_tmp['pred'], 
             gold = df_tmp['gold'],
             evaluation_function = evaluation_function
         )
-        row["SMATCH F1"]= row["metrics"][2]
         results = pd.concat([results, pd.DataFrame([row])], ignore_index=True)
         print(" ")   
     return results
         
-def eval_top_down(preds, gold, sentences, evaluation_function=None):
+def eval_top_down(preds, gold, sentences, evaluation_mode = "AMR", evaluation_function=None):
+    if evaluation_mode == "AMR":
+        evaluation_mode = evaluate_AMR
+    elif evaluation_mode == "text":
+        evaluation_mode = evaluate_text   
     if evaluation_function is None:
         evaluation_function = compute_scores
     eval_df = create_eval_dataframe(preds=preds,gold=gold, sentences=sentences)
@@ -129,13 +137,11 @@ def eval_top_down(preds, gold, sentences, evaluation_function=None):
         print("min number of tokens: " + str(current_min), "number of entries:",len(df_tmp))
         row["n_tokens"] = current_min
         row["n_entries"] = len(df_tmp)
-        row["metrics"]=evaluate_AMRs(
+        row["BLEU"]=evaluation_mode(
             preds = df_tmp['pred'], 
             gold = df_tmp['gold'],
             evaluation_function = evaluation_function
         )
-        print(row["metrics"])
-        row["SMATCH F1"]= row["metrics"][2]
         results = pd.concat([results, pd.DataFrame([row])], ignore_index=True)
         print(" ")   
     return results      
@@ -146,17 +152,17 @@ def num_of_tokens(sent):
 
 def plot_smatch(results, title= ""):
     fig,ax = plt.subplots(2,1)
-    plt.figure(figsize=(100,60))
-    sns.scatterplot(results,x='n_tokens',y='f1', ax = ax[0]).set(title=title) 
+    plt.figure(figsize=(100,120))
+    sns.scatterplot(results,x='n_tokens',y='metric', ax = ax[0]).set(title=title) 
     sns.scatterplot(results,x='n_tokens',y='n_entries', ax = ax[1])
  
 def plot_buckets(results, title= ""):
     bins = [0,20,40,60,80, results['n_tokens'].max()]
     results['n_tokens_binned'] = pd.cut(results["n_tokens"], bins)  
     fig,ax = plt.subplots(2,1)
-    plt.figure(figsize=(100,60))
+    plt.figure(figsize=(100,120))
     sns.boxenplot(
-    results, x="n_tokens_binned", y="SMATCH F1",
+    results, x="n_tokens_binned", y="BLEU",
     color="b",  width_method="linear", ax = ax[0]
     ).set(title=title) 
     sns.barplot(results, x="n_tokens_binned", y="n_entries", ax = ax[1])
